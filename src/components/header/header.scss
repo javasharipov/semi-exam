@@ -1,0 +1,11 @@
+@media (max-width: 826px) {
+    .navbar-item {
+        display: none;
+    }
+    .navbar-profile {
+        display: none;
+    }
+    .navbar-mobile {
+        display: flex;
+    }
+}
